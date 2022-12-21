@@ -1,0 +1,7 @@
+biblio\service\TestBibliothequeService.class
+biblio\rest\controller\AdherentRestControllerTest.class
+biblio\rest\controller\LivreRestControllerTest.class
+biblio\repository\TestAdherentRepository.class
+biblio\repository\TestEmpruntRepository.class
+biblio\repository\SpringConfigTestRepository.class
+biblio\repository\TestLivreRepository.class
